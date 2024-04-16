@@ -71,6 +71,7 @@ return {
         "vimdoc",
         "html",
         "css",
+        "scss",
         "vue",
         "javascript",
         "typescript",
